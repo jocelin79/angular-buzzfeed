@@ -8,7 +8,7 @@ Neste projeto, foi requisitado a criação de uma SPA com a funcionalidade de um
 ## ⚡ Funcionalidades
 
 Principais funcionalidades da aplicação:
-- Clone do BuzzFeed onde, após responder pocas perguntas, o usuário descobrirá se é um Super Herói ou um Super Vião.
+- Clone do BuzzFeed onde, após responder pocas perguntas, o usuário descobrirá se é um Super Herói ou um Super Vilão.
 
 ## 🚀 Tecnologias
 
